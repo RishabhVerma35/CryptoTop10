@@ -11,6 +11,7 @@ const port = 5432;
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+//put your database information here
 const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
