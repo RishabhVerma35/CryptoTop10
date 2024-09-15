@@ -1,5 +1,7 @@
+<img width="947" alt="labtopScreenShot" src="https://github.com/user-attachments/assets/77a46670-7696-4e3a-895a-9984afc82a3c">
+
 # Description
-This project is a Node.js application that fetches data from the WazirX API and stores it in a PostgreSQL database. It provides an Express server with an endpoint to retrieve the top 10 ticker records based on the 'last' value.
+This project is a Node.js application that fetches data from the WazirX API and stores it in a PostgreSQL database. It provides an Express server with an endpoint to retrieve the top 10 records based on the 'last' value.
 
 # Installation
 Prerequisites
@@ -34,7 +36,7 @@ Be sure to update the const pool configuration in server.js to match your databa
 DB_HOST=your_HostName
 DB_NAME=your_dataBaseName
 DB_PASSWORD=your_password
-DB_PORT=5432 (it should be same)`
+DB_PORT=5432 (dont change the port number)`
 
 IMP: Make sure to write the actual values for your_UserName, your_HostName, your_dataBaseName, and your_password (that you create in your postgre)
 
