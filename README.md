@@ -50,4 +50,4 @@ Fetching and Storing Data: The server automatically fetches data from the WazirX
 Retrieving Data: Access the top 10 records via the /data endpoint.
 
 # Contributing:
-Feel free to submit issues, suggest features, or contribute code via pull requests.
+Feel free to submit issues, suggest features.
